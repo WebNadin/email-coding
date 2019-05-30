@@ -9,7 +9,7 @@ You could follow next steps to deploy local project
 
  ```
 $ npm i
-$ npm start
+$ gulp
 ```
 
 
