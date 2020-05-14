@@ -52,7 +52,7 @@ var config = {
   server: {
     baseDir: "./build"
   },
-  tunnel: "xlusive",
+  //tunnel: "xlusive",
   online: true,
   host: 'localhost',
   port: 9000,
