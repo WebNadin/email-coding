@@ -1,6 +1,6 @@
 # Template for email distribution
 
-![Website working gif](https://github.com/WebNadin/email-coding-template/raw/master/images/email-gif.gif)
+![Website working gif](https://github.com/WebNadin/email-coding-template/raw/src/master/images/email-gif.gif)
 
 You can use this project for creating and testing email code.
 But also you should test your email-code sending real email. Then your work will be finished.
